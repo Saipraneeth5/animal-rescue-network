@@ -42,7 +42,7 @@ animal-rescue-network/
 ## 🔗 Repositories
 
 * 🎨 Frontend: https://github.com/Saipraneeth5/animal-rescue-network-frontend
-* ⚙️ Backend: https://github.com/<your-username>/animal-rescue-network-backend
+* ⚙️ Backend: https://github.com/Saipraneeth5/animal-rescue-network-backend
 
 ---
 
